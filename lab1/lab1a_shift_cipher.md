@@ -1,6 +1,6 @@
 # Lab 1A: Shift Ciphers
 
-**Deadline: 22 Sep (2359)**
+**Deadline: 26/27 May(2359)**
 
 - [Lab 1A: Shift Ciphers](#lab-1a-shift-ciphers)
   - [Objectives](#objectives)
