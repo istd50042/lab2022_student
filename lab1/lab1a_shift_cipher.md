@@ -1,6 +1,6 @@
 # Lab 1A: Shift Ciphers
 
-**Deadline: 26/27 May(2359)**
+**Deadline: 27 May(2359)**
 
 - [Lab 1A: Shift Ciphers](#lab-1a-shift-ciphers)
   - [Objectives](#objectives)
@@ -135,4 +135,4 @@ Upload a **zip file** with the following:
 * Decrypted `flag` file (with the correct file extension - e.g. `.txt`)
 * Optional: `report` Jupyter Notebook (with the outputs saved)
 
-**Deadline: 22 Sep (2359)**
+**Deadline: 27 May(2359)**
