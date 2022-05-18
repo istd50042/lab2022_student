@@ -123,8 +123,7 @@ Hints:
 Submission ground rules:
 
 * Please make sure to indicate your name and student ID in each of the graded submission files
-* You are allowed to collaborate with **one** other student. If you choose to do so, both of your name/student ID should be indicated in the submission files. Both are still required to submit the files individually. 
-* Except for within each pair of students that are collaborating, you are not allowed to share answers and solutions.
+
 
 Lab 1 submission:
 
