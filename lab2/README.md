@@ -75,9 +75,9 @@ You are provided with `ex2.py` in this folder. Complete it to show that you can 
 
 ### eDimension Submission
 
-Submission ground rules:
+Submission rules:
 
-* Please make sure to indicate your name and student ID in each of the graded submission files
+* Please rename the file to: lab2_name_studentid_cohort
 
 Lab 2 submission:
 
