@@ -160,13 +160,11 @@ Answer the following questions in your report:
 
 ### eDimension Submission
 
-Submission ground rules:
-
-* Please make sure to indicate your name and student ID in each of the graded submission files
 
 Lab 3 submission:
 
 Upload a **zip file** with the following:
+file name format: lab3_name_studentid_cohortnumber (cohortnumber 0/1, 0 for thursday lab, 1 for friday lab) 
 
 * Report (PDF or HTML format)
 * `ex2.py`
