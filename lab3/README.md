@@ -1,10 +1,7 @@
 # Lab 3: MD5, Rainbow Tables 
 
-<<<<<<< .mine
+
 **Deadline: 10 june (2359)**
-=======
-**Deadline: 10 June (2359)**
->>>>>>> .theirs
 
 - [Lab 3: MD5, Rainbow Tables](#lab-3-md5-rainbow-tables)
   - [Objectives](#objectives)
@@ -164,17 +161,7 @@ Answer the following questions in your report:
 
 ### eDimension Submission
 
-<<<<<<< .mine
 
-
-
-
-=======
-Submission ground rules:
-
-* Please make sure to indicate your name and student ID in each of the graded submission files
-
->>>>>>> .theirs
 Lab 3 submission:
 
 Upload a **zip file** with the following:
@@ -188,8 +175,4 @@ file name format: lab3_name_studentid_cohortnumber (cohortnumber 0/1, 0 for thur
 * `plain6.txt`
 * `ex5.csv`
 
-<<<<<<< .mine
 **Deadline: 10 june (2359)**
-=======
-**Deadline: 10 June (2359)**
->>>>>>> .theirs

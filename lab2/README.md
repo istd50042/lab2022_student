@@ -77,7 +77,7 @@ You are provided with `ex2.py` in this folder. Complete it to show that you can 
 
 Submission rules:
 
-* Please rename the file to: lab2_name_studentid_cohortnumber(0/1)
+* file name format: lab3_name_studentid_cohortnumber (cohortnumber 0/1, 0 for thursday lab, 1 for friday lab) 
 
 Lab 2 submission:
 
