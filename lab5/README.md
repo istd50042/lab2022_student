@@ -1,6 +1,6 @@
 # Lab 5: Modular Arithmetics
 
-**Deadline: 20 Oct (2359)**
+**Deadline: 24 June (2359)**
 
 - [Lab 5: Modular Arithmetics](#lab-5-modular-arithmetics)
   - [Objectives](#objectives)
@@ -365,4 +365,4 @@ Upload a **zip file** with the following:
 * `quiz.txt` (if attempted)
 * `table2.txt` (if attempted)
 
-**Deadline: 20 Oct (2359)**
+**Deadline: 24 June (2359)**
