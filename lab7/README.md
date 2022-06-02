@@ -1,6 +1,6 @@
 # Lab 7: RSA
 
-**Deadline: 17 Nov (2359)**
+**Deadline: 8 July (2359)**
 
 <!-- TOC -->
 
@@ -168,13 +168,10 @@ Answer in `ans.txt`: Explain one limitation of RSA protocol attacks.
 
 ### eDimension Submission
 
-Submission ground rules:
-
-* Please make sure to indicate your name and student ID in each of the graded submission files
-* You are allowed to collaborate with **one** other student. If you choose to do so, both of your name/student ID should be indicated in the submission files. Both are still required to submit the files individually. 
-* Except for within each pair of students that are collaborating, you are not allowed to share answers and solutions.
 
 Lab 7 submission:
+
+Upload a zip file with the following: file name format: lab7_name_studentid_cohortnumber (cohortnumber 0/1, 0 for thursday lab, 1 for friday lab)
 
 Upload a **zip file** with the following:
 
@@ -184,4 +181,4 @@ Upload a **zip file** with the following:
 * `ex5.py`
 * `ans.txt`
 
-**Deadline: 17 Nov (2359)**
+**Deadline: 8 July (2359)**
