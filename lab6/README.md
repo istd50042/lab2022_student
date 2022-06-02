@@ -1,6 +1,6 @@
 # Lab 6: Diffie-Hellman Key Exchange
 
-**Deadline: 27 Oct (2359)**
+**Deadline: 1 July (2359)**
 
 - [Lab 6: Diffie-Hellman Key Exchange](#lab-6-diffie-hellman-key-exchange)
   - [Objectives](#objectives)
@@ -134,6 +134,8 @@ Submission ground rules:
 * Except for within each pair of students that are collaborating, you are not allowed to share answers and solutions.
 
 Lab 6 submission:
+  
+Upload a zip file with the following: file name format: lab6_name_studentid_cohortnumber (cohortnumber 0/1, 0 for thursday lab, 1 for friday lab)
 
 Upload a **zip file** with the following:
 
@@ -142,4 +144,4 @@ Upload a **zip file** with the following:
 * `babygiant.py`
 * `ans.txt`
 
-**Deadline: 27 Oct (2359)**
+**Deadline: 1 July(2359)**
