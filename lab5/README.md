@@ -350,13 +350,9 @@ Your own self-objective (no submission): You should be able to show the working 
 
 ### eDimension Submission
 
-Submission ground rules:
-
-* Please make sure to indicate your name and student ID in each of the graded submission files
-* You are allowed to collaborate with **one** other student. If you choose to do so, both of your name/student ID should be indicated in the submission files. Both are still required to submit the files individually. 
-* Except for within each pair of students that are collaborating, you are not allowed to share answers and solutions.
-
 Lab 5 submission:
+
+Upload a zip file with the following: file name format: lab4_name_studentid_cohortnumber (cohortnumber 0/1, 0 for thursday lab, 1 for friday lab)
 
 Upload a **zip file** with the following:
 
