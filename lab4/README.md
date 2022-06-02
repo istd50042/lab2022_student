@@ -112,4 +112,4 @@ Upload a **zip file** with the following:
 * `extract.py`
 * Decrypted `letter.e`
 
-**Deadline:17 OCT (2359)**
+**Deadline:17 June(2359)**
