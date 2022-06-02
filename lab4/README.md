@@ -103,6 +103,7 @@ Hint: You can ignore the ﬁrst few characters which represent the header as it 
 
 
 Lab 4 submission:
+Upload a zip file with the following: file name format: lab4_name_studentid_cohortnumber (cohortnumber 0/1, 0 for thursday lab, 1 for friday lab)
 
 Upload a **zip file** with the following:
 
