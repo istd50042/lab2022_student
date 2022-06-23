@@ -181,4 +181,4 @@ Upload a **zip file** with the following:
 * `ex5.py`
 * `ans.txt`
 
-**Deadline: 8 July (2359)**
+**Deadline: 15 July (2359)**
