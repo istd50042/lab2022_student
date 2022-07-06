@@ -15,7 +15,7 @@ Please do not redistribute the lab materials.
 | [4: Block Cipher](lab4) | 17 Jun (2359) | [Download](lab4/lab4.zip) |
 | [5: Modular Arithmetics](lab5) | 24 Jun (2359) | [Download](lab5/lab5.zip) |
 | [6: Diffie-Hellman Key Exchange](lab6) |  1 July (2359) | [Download](lab6/lab6.zip) |
-| [7: RSA](lab7) | 8 July (2359) | [Download](lab7/lab7.zip) |
+| [7: RSA](lab7) | 15 July (2359) | [Download](lab7/lab7.zip) |
 | CTF | ... | ... |
 
 ![](header.png)
